@@ -1,0 +1,1202 @@
+[
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 0,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 1,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 2,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 3,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 4,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 5,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 6,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 7,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 8,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "concat",
+    "seed": 9,
+    "archive": "main_3D_GINE_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 0,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 1,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 2,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 3,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 4,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 5,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 6,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 7,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 8,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film",
+    "seed": 9,
+    "archive": "main_3D_GINE_film_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "main_3D_GINE_film_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 0,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 1,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 2,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 3,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 4,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 5,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 6,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 7,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 8,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "concat",
+    "seed": 9,
+    "archive": "main_3D_MLP_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 0,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 1,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 2,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 3,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 4,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 5,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 6,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 7,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 8,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film",
+    "seed": 9,
+    "archive": "main_3D_MLP_film_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "3D_MLP",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "main_3D_MLP_film_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 0,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 1,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 2,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 3,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 4,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 5,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 6,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 7,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 8,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "concat",
+    "seed": 9,
+    "archive": "main_2D_GINE_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 0,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 1,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 2,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 3,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 4,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 5,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 6,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 7,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 8,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film",
+    "seed": 9,
+    "archive": "main_2D_GINE_film_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "2D_GINE",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "main_2D_GINE_film_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 0,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 1,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 2,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 3,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 4,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 5,
+    "archive": "main_SchNet_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 6,
+    "archive": "main_SchNet_concat_02.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 7,
+    "archive": "main_SchNet_concat_02.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 8,
+    "archive": "main_SchNet_concat_02.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "concat",
+    "seed": 9,
+    "archive": "main_SchNet_concat_02.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 0,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 1,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 2,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 3,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 4,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 5,
+    "archive": "main_SchNet_film_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 6,
+    "archive": "main_SchNet_film_02.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 7,
+    "archive": "main_SchNet_film_02.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 8,
+    "archive": "main_SchNet_film_02.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film",
+    "seed": 9,
+    "archive": "main_SchNet_film_02.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "main_SchNet_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "main_SchNet_film_concat_02.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "main_SchNet_film_concat_02.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "main_SchNet_film_concat_02.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "main",
+    "architecture": "SchNet",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "main_SchNet_film_concat_02.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "small",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "small_3D_GINE_film_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "no_species",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "no_species_3D_GINE_film_concat_01.zip",
+    "member": "seed_9.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 0,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_0.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 1,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_1.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 2,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_2.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 3,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_3.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 4,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_4.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 5,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_5.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 6,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_6.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 7,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_7.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 8,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_8.pt"
+  },
+  {
+    "scope": "permute_train",
+    "architecture": "3D_GINE",
+    "fusion": "film_concat",
+    "seed": 9,
+    "archive": "permute_train_3D_GINE_film_concat_01.zip",
+    "member": "seed_9.pt"
+  }
+]
