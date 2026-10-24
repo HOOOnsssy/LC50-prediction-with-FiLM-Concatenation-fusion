@@ -1,0 +1,81 @@
+row_id_original,CASNumber1,Number,Chemical Name,Species Scientific Name,Exposure Type,Exposure Duration,lc50_raw,lc50_log10
+2,110-86-1,1960,Pyridine,Daphnia magna,Static,1,2114.0000000000127,3.3251049829714101
+3,110-86-1,1960,Pyridine,Daphnia magna,Static,2,1282.1247096090285,3.107930270160105
+6,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Daphnia magna,Static,1,1.7753872816937724,0.24929310440875901
+7,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Daphnia magna,Static,2,0.90755187800971449,-0.042128540187835753
+23,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Oryzias latipes,Static,1,3.2653240815338784,0.51392629122735567
+24,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Oryzias latipes,Static,2,3.2653240815338784,0.51392629122735567
+25,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Oryzias latipes,Static,4,1.2,0.079181246047624804
+27,134-62-3,1974,"N,N-Diethyl-3-methylbenzamide",Daphnia magna,Static,1.2082999999999999,130.00000000000099,2.1139433523068401
+28,134-62-3,1974,"N,N-Diethyl-3-methylbenzamide",Daphnia magna,Static,2.125,75.000000000000014,1.8750612633917001
+29,15307-86-5,1979,"2-[(2,6-Dichlorophenyl)amino]benzeneacetic acid",Daphnia magna,"Aquatic, unspecified",21,56.599999999999802,1.7528164311882699
+30,15307-86-5,1979,"2-[(2,6-Dichlorophenyl)amino]benzeneacetic acid",Daphnia magna,Static,2,86.818258448324627,1.9386110697557499
+31,25812-30-0,1993,"5-(2,5-Dimethylphenoxy)-2,2-dimethylpentanoic acid",Daphnia magna,"Aquatic, unspecified",21,56.599999999999802,1.7528164311882699
+32,25812-30-0,1993,"5-(2,5-Dimethylphenoxy)-2,2-dimethylpentanoic acid",Daphnia magna,Static,2,17.751619644415442,1.2492379839005401
+33,272451-65-7,1995,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",Daphnia magna,"Aquatic, unspecified",2,0.0021000000000000033,-2.67778070526608
+34,298-46-4,1997,"5H-Dibenz[b,f]azepine-5-carboxamide",Daphnia magna,Static,2,111.00000000000061,2.0453229787866598
+35,298-46-4,1997,"5H-Dibenz[b,f]azepine-5-carboxamide",Oryzias latipes,Renewal,2,35.400000000000183,1.5490032620257901
+36,298-46-4,1997,"5H-Dibenz[b,f]azepine-5-carboxamide",Oryzias latipes,Renewal,4,35.400000000000183,1.5490032620257901
+37,3380-34-5,2002,"5-Chloro-2-(2,4-dichlorophenoxy)phenol",Oryzias latipes,Renewal,2,0.35199999999999998,-0.45345733652186898
+40,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Renewal,1,0.0083162491545167531,-2.0800725076990556
+41,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Static,2,0.00035355339059327511,-3.4515449934959701
+42,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Static,4,0.00017117242768623702,-3.766566189822945
+49,79-01-6,2027,"1,1,2-Trichloroethene",Daphnia magna,Static,1,22.000000000000188,1.3424226808222099
+51,79-01-6,2027,"1,1,2-Trichloroethene",Oryzias latipes,Static,1,566.74509261219453,2.753387768303325
+52,79-94-7,2029,"4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]",Daphnia magna,Static,1,3.2099999999999995,0.50650503240487199
+53,79-94-7,2029,"4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]",Daphnia magna,Static,2,0.95999999999999996,-0.017728766960431599
+63,90-02-8,2036,Salicylaldehyde,Daphnia magna,Static,2,4.2376063384991509,0.62712060953419269
+65,90-13-1,2037,1-Chloronaphthalene,Daphnia magna,Static,2,1.6000000000000008,0.20411998265592499
+66,91-53-2,2039,"6-Ethoxy-1,2-dihydro-2,2,4-trimethylquinoline",Oryzias latipes,"Aquatic, unspecified",4,6.6999999999999931,0.82607480270082601
+72,95-47-6,2044,"1,2-Xylene",Daphnia magna,Static,2,17.427217719047214,1.2412280568910867
+74,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,Renewal,7,0.10000000000000001,-1
+78,95-95-4,2048,"2,4,5-Trichlorophenol",Daphnia magna,Static,1,3.7999999999999985,0.57978359661681
+83,95-95-4,2048,"2,4,5-Trichlorophenol",Oryzias latipes,Static,4,1.1000000000000001,0.041392685158225098
+89,110-86-1,1960,Pyridine,Oryzias latipes,"Aquatic, unspecified",2,1559.9999999999936,3.1931245983544598
+90,110-86-1,1960,Pyridine,Oryzias latipes,Static,1,399.99999999999767,2.6020599913279598
+91,110-86-1,1960,Pyridine,Oryzias latipes,Static,2,330.00000000000205,2.5185139398778902
+107,79-01-6,2027,"1,1,2-Trichloroethene",Daphnia magna,Static,2,40.418180540896621,1.6065767594802818
+111,79-01-6,2027,"1,1,2-Trichloroethene",Oryzias latipes,"Aquatic, unspecified",2,270.00000000000171,2.43136376415899
+112,79-01-6,2027,"1,1,2-Trichloroethene",Oryzias latipes,Static,2,84.822235180299884,1.9285097125198263
+117,88-72-2,2033,1-Methyl-2-nitrobenzene,Daphnia magna,Static,2,9.8386991009990243,0.99293767865419458
+118,88-72-2,2033,1-Methyl-2-nitrobenzene,Daphnia magna,Static,21,7.3000000000000016,0.863322860120456
+125,100-00-5,1946,1-Chloro-4-nitrobenzene,Daphnia magna,Static,2,7.7220463609071901,0.88773240467286951
+126,100-00-5,1946,1-Chloro-4-nitrobenzene,Daphnia magna,Static,21,4.5999999999999988,0.66275783168157398
+129,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Daphnia magna,"Aquatic, unspecified",1,0.50999999999999956,-0.29242982390206401
+130,115-86-6,1962,"Phosphoric acid, Triphenyl ester",Daphnia magna,"Aquatic, unspecified",2,0.089999999999999011,-1.0457574905606799
+137,121-69-7,1967,"N,N-Dimethylbenzenamine",Oryzias latipes,Static,1,55.99999999999995,1.7481880270062
+138,121-69-7,1967,"N,N-Dimethylbenzenamine",Oryzias latipes,Static,2,33.000000000000192,1.51851393987789
+139,134-62-3,1974,"N,N-Diethyl-3-methylbenzamide",Daphnia magna,Renewal,21,26.000000000000121,1.41497334797082
+144,3380-34-5,2002,"5-Chloro-2-(2,4-dichlorophenoxy)phenol",Daphnia magna,Static,2,0.24177040899999977,-0.61659685481697901
+148,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Renewal,2,5.3677547956695956e-05,-4.2702073313859907
+149,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Renewal,4,1.4491376746189442e-05,-4.8388903526330402
+150,52918-63-5,2008,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Daphnia magna,Static,1,0.0026732987698067931,-2.5729525014651333
+158,554-00-7,2010,"2,4-Dichlorobenzenamine",Daphnia magna,Renewal,14,0.72111025509279769,-0.1419983281826005
+159,554-00-7,2010,"2,4-Dichlorobenzenamine",Daphnia magna,Renewal,21,0.34641016151377552,-0.4604093769761875
+160,554-00-7,2010,"2,4-Dichlorobenzenamine",Daphnia magna,Static,2,0.59581876439064918,-0.22488582347245301
+161,554-00-7,2010,"2,4-Dichlorobenzenamine",Daphnia magna,Static,21,3.0983866769659318,0.49113561651978399
+164,554-00-7,2010,"2,4-Dichlorobenzenamine",Oryzias latipes,Renewal,2,24.000000000000217,1.3802112417116099
+165,554-00-7,2010,"2,4-Dichlorobenzenamine",Oryzias latipes,Renewal,4,24.899799195977351,1.3961958447491249
+166,554-00-7,2010,"2,4-Dichlorobenzenamine",Oryzias latipes,Renewal,7,3.999999999999996,0.60205999132796195
+167,554-00-7,2010,"2,4-Dichlorobenzenamine",Oryzias latipes,Renewal,28,1,0
+169,554-84-7,2011,3-Nitrophenol,Oryzias latipes,Static,2,1.3000000000000007,0.113943352306837
+170,74-89-5,2019,Methanamine,Oryzias latipes,Static,1,1000,3
+171,74-89-5,2019,Methanamine,Oryzias latipes,Static,2,1000,3
+173,79-94-7,2029,"4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]",Daphnia magna,Renewal,2,1.3360000000000005,0.12580645813952701
+179,87-61-6,2031,"1,2,3-Trichlorobenzene",Daphnia magna,Static,2,1.4515903999999982,0.16184408735931699
+184,88-73-3,2034,1-Chloro-2-nitrobenzene,Daphnia magna,Static,2,34.292856398964517,1.5352036608700601
+185,88-73-3,2034,1-Chloro-2-nitrobenzene,Daphnia magna,Static,21,10.700000000000008,1.0293837776852099
+186,88-75-5,2035,2-Nitrophenol,Daphnia magna,Static,2,13.169999999999883,1.1195857749617799
+189,88-75-5,2035,2-Nitrophenol,Oryzias latipes,Static,2,1.6000000000000008,0.20411998265592499
+192,90-02-8,2036,Salicylaldehyde,Oryzias latipes,"Aquatic, unspecified",2,4.1999999999999957,0.6232492903979
+196,91-57-6,2040,2-Methylnaphthalene,Daphnia magna,Static,2,1.4931042000000012,0.17409011710607999
+199,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",1,0.32924155266308658,-0.48248535889881594
+200,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",2,0.15165750888103105,-0.81913608199120347
+201,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",4,0.16000000000000009,-0.79588001734407499
+202,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",7,0.12000000000000005,-0.920818753952375
+203,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",14,0.10000000000000001,-1
+204,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,"Aquatic, unspecified",21,0.10000000000000001,-1
+205,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,Renewal,21,0.022360679774997928,-1.65051499783199
+206,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,Static,1,2.510681787935225,0.39979167229028001
+207,95-76-1,2046,"3,4-Dichlorobenzenamine",Daphnia magna,Static,2,1.096441105520936,0.039985308850569751
+216,95-95-4,2048,"2,4,5-Trichlorophenol",Daphnia magna,Static,2,2.3698101189757801,0.37471354956087449

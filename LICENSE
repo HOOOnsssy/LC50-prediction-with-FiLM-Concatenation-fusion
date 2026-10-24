@@ -1,0 +1,108 @@
+WR115321 Academic Research License
+Version 1.0, 24 October 2026
+
+Copyright (c) 2026 the respective rights holders of the original WR115321
+software, documentation and trained model checkpoints. All rights reserved
+except as expressly granted below.
+
+Original repository:
+https://github.com/HOOOnsssy/LC50-prediction-with-FiLM-Concatenation-fusion
+
+1. Scope
+
+This license applies to the original software in predict.py, explain.py and
+models/, the original trained checkpoints and accompanying configuration and
+split information in checkpoints/, and the authors' accompanying software
+documentation (collectively, the "Materials"), only to the extent that the
+licensors hold the rights needed to license those contributions.
+
+It does not apply to data/ or the journal Supplementary Data workbook, to
+underlying scientific facts or source records, to the journal manuscript, or
+to third-party software and other third-party materials. DATA_NOTICE.md
+describes the separate treatment of data. Third-party licenses and notices
+continue to apply to their respective materials. This license does not
+override rights already granted under another applicable license.
+
+2. Permission for non-commercial academic research
+
+Subject to these conditions, permission is granted, without a license fee,
+to use, execute, copy, study, modify and redistribute the Materials solely
+for non-commercial academic research, including reproducing, validating,
+comparing and extending the reported methods. No individual access request
+is required for activities within this permission.
+
+Non-commercial academic research means scholarly investigation intended to
+advance and communicate knowledge, rather than to develop, provide or
+support a commercial product, commercial service or proprietary commercial
+research activity. Paid consultancy, commercial toxicity-screening services
+and product development are excluded, including when performed at an
+academic institution. Institutional status or publication of a paper alone
+does not make a commercial activity permissible. Research funding alone
+does not determine whether a use is commercial; the purpose and actual use
+of the Materials do.
+
+Any use outside this permission requires separate prior written permission
+from the applicable rights holders. Requests should be directed to the
+repository owner using the contact email listed on the owner's GitHub
+profile, https://github.com/HOOOnsssy.
+
+3. Required attribution and citation
+
+Copies and redistributions of the Materials must retain this license,
+existing copyright notices, and identification of the original repository.
+
+Publications, preprints, reports, presentations and other publicly shared
+research outputs that use the Materials or results produced with them must
+cite both the associated study and this software repository. Use the
+bibliographic information in CITATION.cff and identify the repository version
+or access date. While the study is unpublished, identify it as a manuscript
+under review, without inventing a DOI or publication details. Use the final
+published citation when it becomes available. Mere reading of the repository
+does not trigger a requirement to cite it.
+
+4. Modified versions
+
+Redistributed modified versions must clearly state that they are derived
+from this repository and are not the original release. Identify the
+modifier, modification date and principal changes in a visible change notice
+or README. Modified source files must also carry a notice that they were
+changed. For modified or fine-tuned checkpoints, describe the changes in
+an accompanying model note. Do not imply endorsement by the original
+authors or present modified results as results of the original study.
+
+For example: "Modified from the original FiLM-Concat aquatic LC50 repository
+by [modifier] on [date]. Principal changes: [description]."
+
+5. Redistribution and reserved rights
+
+Redistribution of the original Materials or derivatives containing them is
+permitted only for the purposes in Section 2 and must preserve these terms
+for the original Materials and their modifications. Include LICENSE,
+CITATION.cff and DATA_NOTICE.md, or their full contents, with the distribution.
+Do not replace these terms with a more permissive license for contributions
+you do not own. Independently authored additions and third-party components
+retain their own applicable rights and terms.
+
+This license does not claim ownership of research findings, ideas, methods,
+scientific facts or underlying ECOTOX records. It does not limit statutory
+exceptions or public-domain rights. No trademark rights or endorsement are
+granted. An express patent license is not granted by this text. Rights not
+expressly granted are reserved.
+
+6. Warranty and liability
+
+The Materials are provided "AS IS", without warranties of accuracy,
+fitness for a particular purpose, merchantability or non-infringement, to
+the extent permitted by applicable law. The authors and rights holders
+shall not be liable for claims or losses arising from use of the Materials,
+to the extent permitted by applicable law.
+
+7. Non-compliance
+
+Permission under this license terminates if its conditions are not met.
+Continued use outside the granted permission requires separate written
+authorization, without affecting any rights independently available under
+applicable law or another applicable license.
+
+This is a custom academic research license. It is not the MIT License and
+is not an OSI-approved open-source license.

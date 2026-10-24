@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: >-
+  Cite this software repository and the associated study when using the code,
+  checkpoints, or their outputs in public research outputs, as required by LICENSE.
+  The study is currently a manuscript under review. Its citation is listed under
+  references; no publication DOI has been assigned in this file.
+type: software
+title: "LC50 prediction with FiLM-Concatenation fusion"
+version: "2026.10.24"
+authors:
+  - family-names: Yeom
+    given-names: Jaehoon
+  - family-names: Kim
+    given-names: Minji
+  - family-names: Kim
+    given-names: Sang Don
+  - family-names: Jeong
+    given-names: Heewon
+  - family-names: Cho
+    given-names: Kyung Hwa
+repository-code: "https://github.com/HOOOnsssy/LC50-prediction-with-FiLM-Concatenation-fusion"
+url: "https://github.com/HOOOnsssy/LC50-prediction-with-FiLM-Concatenation-fusion"
+license-url: "https://github.com/HOOOnsssy/LC50-prediction-with-FiLM-Concatenation-fusion/blob/HEAD/LICENSE"
+abstract: >-
+  Model definitions, inference and numerical interpretation code, input data,
+  and trained checkpoints for aquatic LC50 prediction. The release contains
+  twelve encoder-fusion configurations across ten compound-level splits and
+  thirty auxiliary checkpoints. Original code and checkpoints are provided
+  under a custom non-commercial academic research license. Source data have
+  separate terms described in DATA_NOTICE.md.
+keywords:
+  - aquatic toxicity
+  - LC50
+  - graph neural networks
+  - FiLM
+  - multimodal learning
+references:
+  - type: unpublished
+    title: "Advancing Structural Interpretability in Multispecies Aquatic Toxicity Prediction through Feature-Wise Conditioning in Multimodal Graph Neural Networks"
+    authors:
+      - family-names: Yeom
+        given-names: Jaehoon
+      - family-names: Kim
+        given-names: Minji
+      - family-names: Kim
+        given-names: Sang Don
+      - family-names: Jeong
+        given-names: Heewon
+      - family-names: Cho
+        given-names: Kyung Hwa
+    year: 2026
+    notes: "Manuscript under review at Water Research, manuscript identifier WR115321."
